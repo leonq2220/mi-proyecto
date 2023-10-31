@@ -56,7 +56,9 @@ h2 {
   text-align: center;
 
 }
-
+li{
+  padding: 10px;
+}
 .container-nav {
   display: flex;
   padding: 10px;
