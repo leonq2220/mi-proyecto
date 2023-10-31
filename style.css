@@ -1,8 +1,7 @@
 .container {
-  width: 80%;
   max-width: 1000px;
   margin: auto;
-  overflow: hidden;
+  padding: 20px;
 
 }
 
@@ -19,8 +18,10 @@
 
 }
 
-.column @media (max-width: 600px) {
+.column @media (max-width: 450px) {
   .column flex: 100%;
+  
+
 }
 
 body {
@@ -137,10 +138,10 @@ a:hover {
   text-align: center;
 }
 
-
-@media (max-width:300px) {
+@media (max-width:450px) {
   .column {
-    flex: 100%;
+    flex:100%;
+    
 
   }
 
