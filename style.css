@@ -29,7 +29,11 @@ body {
   background-color: rgb(255, 255, 255);
   position: relative;
   padding-bottom: -0%;
- 
+  background-image: url("https://png.pngtree.com/background/20210715/original/pngtree-yellow-geometric-blue-background-picture-image_1279405.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 
 
 
@@ -44,7 +48,7 @@ p {
 
 h1 {
   margin: 10px;
-  color: rgb(212, 175, 55);
+  color: rgb(248, 117, 9);
   text-align: center;
   }
   body{
@@ -53,7 +57,7 @@ h1 {
   }
 
 h2 {
-  background-color: rgb(212, 175, 55);
+  background-color: rgb(249, 214, 17);
   color: rgb(0, 0, 0);
   text-align: center;
 
@@ -94,7 +98,7 @@ li {
 
 
 a {
-  color: rgb(212, 175, 55);
+  color: rgb(248, 117, 9);
   text-decoration: none;
   font-size: x-large;
   font-family: 'Edu TAS Beginner', cursive;
