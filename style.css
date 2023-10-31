@@ -1,7 +1,8 @@
 .container {
+  width: 80%;
   max-width: 1000px;
   margin: auto;
-  padding: 20px;
+  overflow: hidden;
 
 }
 
@@ -137,7 +138,7 @@ a:hover {
 }
 
 
-@media (max-width:450px) {
+@media (max-width:300px) {
   .column {
     flex: 100%;
 
